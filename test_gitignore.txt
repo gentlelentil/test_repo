@@ -1,0 +1,7 @@
+**/*.sdf
+/create_sdf
+**/*.csv
+**/.~*
+**/*.txt
+
+1511_compounds.sdf
